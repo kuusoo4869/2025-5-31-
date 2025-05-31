@@ -1,0 +1,44 @@
+{
+  "mainGroups": [
+    {
+      "id": 1,
+      "name": "111",
+      "subGroups": [
+        {
+          "id": 1,
+          "name": "111",
+          "files": [
+            {
+              "id": 1,
+              "name": "explorer.exe",
+              "size": "2926936B",
+              "path": "C:/Windows/explorer.exe"
+            },
+            {
+              "id": 2,
+              "name": "regedit.exe",
+              "size": "577536B",
+              "path": "C:/Windows/regedit.exe"
+            },
+            {
+              "id": 3,
+              "name": "Microsoft Edge.lnk",
+              "size": "2272B",
+              "path": "C:/Users/Public/Desktop/Microsoft Edge.lnk"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "222",
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "222",
+      "subGroups": []
+    }
+  ]
+}
